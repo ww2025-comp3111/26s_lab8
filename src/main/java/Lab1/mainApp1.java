@@ -7,7 +7,7 @@ package Lab1;
 public class mainApp1 {
     public static void main (String[] args){
         int b = 2;
-        int n = 11;
+        int n = 13; // old 11
         System.out.println("New branch text !");
         System.out.println("Program ... Starting ...");
         System.out.println("1 + 1 = "+2);
